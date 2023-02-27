@@ -1,0 +1,7 @@
+{
+    "loader": "mantle:fluid_texture",
+    "textures": {
+        "still": "drinkbeer:block/fluid/miner_pale_ale/still",
+        "flowing": "drinkbeer:block/fluid/miner_pale_ale/flowing"
+    }
+}
